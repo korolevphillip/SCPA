@@ -30,5 +30,4 @@ def calculateVolatility(stock, dayChange):
     # returns a volatility score
     return abs(volatility)/100
 
-print(calculateVolatility("FRBN", 59.33))
 
